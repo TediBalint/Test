@@ -1,0 +1,16 @@
+p
+{
+    color: red;
+}
+h1
+{
+    color: wheat;
+}
+li
+{
+    list-style-type: none;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 16pt;
+    color: red;
+}
